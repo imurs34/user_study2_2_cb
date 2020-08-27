@@ -1,0 +1,435 @@
+[
+  {
+    "start": 0, 
+    "end": 96.7967, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          202, 
+          45, 
+          1952, 
+          1285
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 0
+  }, 
+  {
+    "start": 96.7967, 
+    "end": 106.47303333333333, 
+    "ocr_result": [
+      {
+        "text": " ", 
+        "location": [
+          202, 
+          45, 
+          1952, 
+          1285
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 1
+  }, 
+  {
+    "start": 106.47303333333333, 
+    "end": 212.9127, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Who is responsible for financial reporting?", 
+        "location": [
+          76, 
+          34, 
+          2456, 
+          104
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " * Management is responsible for preparing financial statements \u2014 The Audit Committee of the Board of Directors provides oversight of managements process", 
+        "location": [
+          135, 
+          169, 
+          2125, 
+          235
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " \u2014 Auditors are hired by the Board to \u201cexpress an opinion\u201d about whether the statements are prepared in conformity with GAAP - The SEC and other regulators take action against the firm if any violations of GAAP or other rules are found", 
+        "location": [
+          132, 
+          380, 
+          2185, 
+          319
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " \u00ab Information intermediaries (stock analysts, institutional investors, the media) may expose or flee firms with questionable accounting", 
+        "location": [
+          130, 
+          676, 
+          2252, 
+          169
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 2
+  }, 
+  {
+    "start": 212.9127, 
+    "end": 222.58903333333333, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " Who is responsible for financial reporting?", 
+        "location": [
+          76, 
+          34, 
+          2456, 
+          104
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " * Management is responsible for preparing financial statements \u2014 The Audit Committee of the Board of Directors provides oversight of managements process", 
+        "location": [
+          135, 
+          169, 
+          2125, 
+          235
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " \u2014 Auditors are hired by the Board to \u201cexpress an opinion\u201d about whether the statements are prepared in conformity with GAAP - The SEC and other regulators take action against the firm if any violations of GAAP or other rules are found", 
+        "location": [
+          132, 
+          380, 
+          2185, 
+          319
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " \u00ab Information intermediaries (stock analysts, institutional investors, the media) may expose or flee firms with questionable accounting", 
+        "location": [
+          130, 
+          676, 
+          2252, 
+          169
+        ], 
+        "block_num": 4
+      }
+    ], 
+    "shot_id": 3
+  }, 
+  {
+    "start": 222.58903333333333, 
+    "end": 261.2943666666667, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " What are the required financial statements?", 
+        "location": [
+          76, 
+          35, 
+          2450, 
+          103
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " Balance Sheet", 
+        "location": [
+          203, 
+          165, 
+          499, 
+          74
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          193, 
+          25, 
+          19
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " \u2014 Financial position (listing of resources and obligations) on a specific date", 
+        "location": [
+          134, 
+          256, 
+          2156, 
+          68
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Income Statement", 
+        "location": [
+          197, 
+          336, 
+          626, 
+          62
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          352, 
+          25, 
+          25
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " \u2014- Results of operations over a period of time using accrual accounting (ie., recognition tied to business activities)", 
+        "location": [
+          134, 
+          414, 
+          2149, 
+          138
+        ], 
+        "block_num": 7
+      }
+    ], 
+    "shot_id": 4
+  }, 
+  {
+    "start": 261.2943666666667, 
+    "end": 270.9707, 
+    "ocr_result": [
+      {
+        "text": "[TITLE] ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          6
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " What are the required financial statements?", 
+        "location": [
+          76, 
+          35, 
+          2450, 
+          103
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " Balance Sheet", 
+        "location": [
+          203, 
+          165, 
+          499, 
+          74
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          193, 
+          25, 
+          19
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " \u2014 Financial position (listing of resources and obligations) on a specific date", 
+        "location": [
+          134, 
+          256, 
+          2156, 
+          68
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " Income Statement", 
+        "location": [
+          197, 
+          336, 
+          626, 
+          62
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "", 
+        "location": [
+          177, 
+          352, 
+          25, 
+          25
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": " - Results of operations over a period of time using accrual accounting (ie., recognition tied to business activities)", 
+        "location": [
+          134, 
+          414, 
+          2149, 
+          138
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " \u00bb Statement of Cash Flows", 
+        "location": [
+          188, 
+          556, 
+          859, 
+          68
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": " - Sources and uses of cash over a period of time", 
+        "location": [
+          160, 
+          635, 
+          1412, 
+          73
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " : Statement of Stockholders\u2019 Equity", 
+        "location": [
+          175, 
+          715, 
+          1171, 
+          86
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " \u2014 Changes in stockholders\u2019 equity over a period of time", 
+        "location": [
+          157, 
+          797, 
+          1585, 
+          72
+        ], 
+        "block_num": 11
+      }
+    ], 
+    "shot_id": 5
+  }, 
+  {
+    "start": 270.9707, 
+    "end": 280.6470333333333, 
+    "ocr_result": [
+      {
+        "text": " Um, OK. Could we get an example? This is pretty abstract.   ", 
+        "location": [
+          607, 
+          69, 
+          1124, 
+          577
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          338, 
+          96, 
+          265, 
+          295
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          197, 
+          412, 
+          1957, 
+          865
+        ], 
+        "block_num": 2
+      }
+    ], 
+    "shot_id": 6
+  }, 
+  {
+    "start": 280.6470333333333, 
+    "end": 290.3233666666667, 
+    "ocr_result": [
+      {
+        "text": " | ee 100000 Mm ua low. Ne L \u00ab=   ", 
+        "location": [
+          0, 
+          0, 
+          2880, 
+          1404
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 7
+  }, 
+  {
+    "start": 290.3233666666667, 
+    "end": 0.0, 
+    "ocr_result": [
+      {
+        "text": " ee EE mt i  lorwls a a ", 
+        "location": [
+          0, 
+          0, 
+          576, 
+          280
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 8
+  }
+]
